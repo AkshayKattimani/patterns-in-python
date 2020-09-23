@@ -13,10 +13,10 @@ for i in range (4) :
     
 ##output##   
     
-#  #  #  #
-#  #  #  #
-#  #  #  #
-#  #  #  #
+                #  #  #  #
+                #  #  #  #
+                #  #  #  #
+                #  #  #  #
     
     
     
@@ -28,12 +28,12 @@ for i in range (num) :
     print("# "*num)
     
  ##output##
-enter num: 5
-# # # # #
-# # # # #
-# # # # #
-# # # # #
-# # # # #
+                enter num: 5
+                # # # # #
+                # # # # #
+                # # # # #
+                # # # # #
+                # # # # #
 
 # 2)triangle pattern (a1)
 num = int(input("enter num: "))
@@ -51,12 +51,12 @@ for i in range (1,num+1) :
     print("# "*i)
 
  ##output##
- enter num: 5
-#
-#  #
-#  #  #
-#  #  #  #
-#  #  #  #  #
+                         enter num: 5
+                        #
+                        #  #
+                        #  #  #
+                        #  #  #  #
+                        #  #  #  #  #
 
 
 
@@ -76,12 +76,12 @@ for i in range (num,0,-1) :
     print("# "*i)
     
  ##output##   
-    enter num: 5
-#  #  #  #  #
-#  #  #  #
-#  #  #
-#  #
-#
+                                    enter num: 5
+                                #  #  #  #  #
+                                #  #  #  #
+                                #  #  #
+                                #  #
+                                #
 
 # triangle (a) + (b)
 num = int(input("enter num: "))
@@ -96,18 +96,18 @@ for i in range (num,0,-1) :
     print()
     
     ##output##
-    enter num: 6
-#
-#  #
-#  #  #
-#  #  #  #
-#  #  #  #  #
-#  #  #  #  #  #
-#  #  #  #  #
-#  #  #  #
-#  #  #
-#  #
-#
+                                        enter num: 6
+                                    #
+                                    #  #
+                                    #  #  #
+                                    #  #  #  #
+                                    #  #  #  #  #
+                                    #  #  #  #  #  #
+                                    #  #  #  #  #
+                                    #  #  #  #
+                                    #  #  #
+                                    #  #
+                                    #
 
 
 
@@ -118,11 +118,11 @@ for i in range (1,num+1) :
     print("  "*(num-i)+ "# "*i)
     
     ##output##
-  enter num: 4
-      #
-    # #
-  # # #
-# # # #
+                              enter num: 4
+                                  #
+                                # #
+                              # # #
+                            # # # #
 
 
 # triangle(d)
@@ -133,13 +133,13 @@ for i in range (1,num+1) :
     print(" "*(num-i)+ "# "*i)
     
     ##output##
-    enter num: 6
-     #
-    # #
-   # # #
-  # # # #
- # # # # #
-# # # # # #
+                                enter num: 6
+                                 #
+                                # #
+                               # # #
+                              # # # #
+                             # # # # #
+                            # # # # # #
 
 
 
@@ -153,15 +153,15 @@ for i in range (num-1,0,-1) :
     print(" "*(num-i)+ "# "*i)
     
     ##output##
-    enter num: 5
-    #
-   # #
-  # # #
- # # # #
-# # # # #
- # # # #
-  # # #
-   # #
-    #
+                                        enter num: 5
+                                        #
+                                       # #
+                                      # # #
+                                     # # # #
+                                    # # # # #
+                                     # # # #
+                                      # # #
+                                       # #
+                                        #
 
 
