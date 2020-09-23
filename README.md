@@ -29,11 +29,15 @@ for i in range (num) :
     
  ##output##
  enter num: 5
+ 
+ 
                 # # # # #
                 # # # # #
                 # # # # #
                 # # # # #
                 # # # # #
+
+
 
 # 2)triangle pattern (a1)
 num = int(input("enter num: "))
@@ -52,6 +56,8 @@ for i in range (1,num+1) :
 
  ##output##
   enter num: 5
+  
+  
                         #
                         #  #
                         #  #  #
